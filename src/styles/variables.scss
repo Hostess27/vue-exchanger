@@ -1,0 +1,8 @@
+@import "app-colors.scss";
+
+:root {
+    --dark-gray: #{$dark-gray};
+    --white: #{$white};
+    --primary-color: #{$blue};
+    --error-color: #{$red};
+}
